@@ -1,0 +1,15 @@
+.titulo-manto{
+    text-align:center;
+    color:steelblue;
+    font-size:1.8em;
+}
+
+.informacion-paciente{
+    padding: 15px;
+    padding-left:30px;
+}
+
+.fila-info-paciente{
+    line-height: 2.2rem;
+    font-size:16px;
+}

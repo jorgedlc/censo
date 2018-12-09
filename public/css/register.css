@@ -1,0 +1,10 @@
+
+.form-register{
+    box-shadow:0 10px 5px rgba(0,0,0,0.7);
+    width:80%;
+    margin:0 auto;
+    padding:25px;
+}            
+.form-register h1{
+    text-align:center;
+}
